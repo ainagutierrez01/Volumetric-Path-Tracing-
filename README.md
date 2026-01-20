@@ -38,9 +38,6 @@ This approach naturally supports **multiple scattering**, leading to more physic
 | Performance         | Faster       | More expensive          |
 
 
-## Project Context
-
-This work was completed as part of a university-level computer graphics course, with the goal of deepening understanding of light transport in complex environments and evaluating advanced rendering techniques.
 
 ## References
 
